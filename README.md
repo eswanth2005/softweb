@@ -1178,9 +1178,9 @@ product html
 ```
 
 ## OUTPUT:
-![Alt text](sai/webapp/static/a.png)
-![alt text](sai/webapp/static/b.png)
-![Alt text](sai/webapp/static/cc.png)
-![Alt text](sai/webapp/static/d.png)
+![Alt text](eshu/webapp/static/a.png)
+![alt text](eshu/webapp/static/b.png)
+![Alt text](eshu/webapp/static/cc.png)
+![Alt text](eshu/webapp/static/d.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
